@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "eyeos-gruntfile": "*",
-    "grunt": "0.4.5",
+    "grunt": "1.5.3",
     "grunt-init": "0.3.2",
     "mocha": "2.4.5"
   }
